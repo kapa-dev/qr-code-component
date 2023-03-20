@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "a simple qr code component",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapa-dev/qr-code-component.git"
+  },
+  "author": "kapa dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapa-dev/qr-code-component/issues"
+  },
+  "homepage": "https://github.com/kapa-dev/qr-code-component#readme"
+}
